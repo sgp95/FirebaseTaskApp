@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "178468791756",
+    "firebase_url": "https://fir-taskapp.firebaseio.com",
+    "project_id": "fir-taskapp",
+    "storage_bucket": "fir-taskapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178468791756:android:90da8feb54cb4c47",
+        "android_client_info": {
+          "package_name": "com.sgp95.santiago.firebasetaskapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178468791756-99lc8m3n0jf1jh4veprc7j46b9cvraga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sgp95.santiago.firebasetaskapp",
+            "certificate_hash": "3c330b6f4e8b31b4e0bac2dc9c74b8fececb312f"
+          }
+        },
+        {
+          "client_id": "178468791756-qggcf84p49c6723fa17qlilu80r9pfrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs9iic2eTVBqK3sUBoMLCe_6-lasmdJ6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178468791756-qggcf84p49c6723fa17qlilu80r9pfrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

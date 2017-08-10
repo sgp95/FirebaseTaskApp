@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:src="@drawable/ic_event_note"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="16dp">
+
+        <TextView
+            android:id="@+id/txtTaskTittle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Task title"
+            android:textSize="16sp"
+            android:paddingBottom="6dp"/>
+
+        <TextView
+            android:id="@+id/txtTaskDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="22 de Julio del 2017"
+            android:textSize="14sp"/>
+        <TextView
+            android:id="@+id/txtTaskHour"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="12:40"
+            android:textSize="14sp"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>
